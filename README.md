@@ -459,3 +459,7 @@ Lastly, while the `:per_attribute_iv_and_salt` mode is more secure than `:per_at
   future version unintentionally.
 * Commit, do not mess with rakefile, version, changelog, or history.
 * Send me a pull request. Bonus points for topic branches.
+
+## 버킷플레이스 변경사항
+
+* https://github.com/attr-encrypted/attr_encrypted 의 11df93aef14c661dd0c03169d382a0412f93124e 를 베이스로 삼고, https://github.com/attr-encrypted/attr_encrypted/pull/299 를 병합한 레포지토리입니다.
